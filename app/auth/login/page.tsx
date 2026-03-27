@@ -6,7 +6,7 @@ import LoginForm from "@/components/auth/LoginForm"
 
 export const metadata: Metadata = {
   title: 'CashTrackr - IniciarSesion',
-  description: 'CashTrackr - IniciarSesion'
+  description: 'CashTrackr - Iniciar Sesion'
 }
 
 export default function LoginPage() {
